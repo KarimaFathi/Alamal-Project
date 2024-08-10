@@ -1,6 +1,6 @@
 # Alamal Project
 
-The Alamal Project is a web-based application designed specifically for the Dura Alamal Association, a non-profit organization focused on [provide a brief description of the association’s purpose, as found in the HTML code]. This ongoing project aims to support the association's mission by providing an intuitive and accessible platform. The project is built using only HTML and CSS, with a strong emphasis on responsive design to ensure compatibility across all devices.
+The Alamal Project is a web-based application designed specifically for the Dura Alamal Association, a non-profit organization. This ongoing project aims to support the association's mission by providing an intuitive and accessible platform. The project is built using only HTML and CSS, with a strong emphasis on responsive design to ensure compatibility across all devices.
 
 ## Features
 - **Responsive Layout:** Optimized for various screen sizes to provide a consistent user experience.
