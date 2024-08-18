@@ -278,7 +278,7 @@ header nav .toggle-menu {
   }
 
   .landing .image {
-    right: 4%;
+    right: 9%;
     top: 54%;
     transform: translateY(0%);
   }
@@ -331,6 +331,7 @@ section .about-content-2 .image::before {
   }
   section .about-content-2 .image.two {
     top: 60px;
+    left: -35px;
   }
   section .about-content-1 .image::before,
   section .about-content-2 .image::before {
