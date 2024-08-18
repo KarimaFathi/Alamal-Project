@@ -15,7 +15,7 @@ body {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 /* Small */
 @media (min-width: 768px) {
@@ -650,10 +650,6 @@ section#facilities {
 }
 
 @media (min-width: 768px) {
-  .center-box {
-    gap: 5px;
-    padding: 10px;
-  }
   .left-column,
   .right-column {
     display: none;
@@ -867,4 +863,17 @@ section#contact {
     margin-right: 0;
     max-width: fit-content;
   }
+}
+footer {
+  background-color: #fff9f4;
+  padding: 20px;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 0.9em;
+}
+
+footer p {
+  font-weight: bold;
+  font-size: 17px;
+  color: rgb(6, 122, 68);
 }
